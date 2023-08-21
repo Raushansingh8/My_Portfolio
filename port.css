@@ -1,0 +1,367 @@
+
+  
+ .navbar{
+   
+    height: 100px;
+    background-color:whitesmoke;
+    box-shadow: 4px 5px 4px 3px rgb(247, 249, 250);
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 11px;
+    margin-top: 2%;
+ }
+  
+  .navbar a {
+    float: left;
+    font-size:20px;
+    display: block;
+   
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding: 18px 40px;
+    margin: 15px 18px;
+    text-decoration: none;
+  }
+
+  #skill{
+    border:1px solid black;
+    height:350px;
+    width: 100%;
+  }
+
+  #left{
+    width:38%;  
+    display: inline-block;
+}
+
+.skill-heading{
+border: 1px solid black;
+height:500px;
+width: 100%;
+}
+
+#myleft{
+  width:38%;  
+  display: inline-block;
+  height: 400px;
+}
+
+.range{
+  width:80%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 15px;
+  display:inline-block;
+  border: none;
+
+}
+.lan{
+  width:75%;
+  display:inline-block;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+}
+
+.css{
+
+  width:70%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+  display: inline-block;
+
+}
+
+.ops{
+    
+  width:60%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+  display: inline-block;
+
+
+}
+
+.type{
+  margin-left:3rem;
+  display:block;
+  padding:2px;
+  font-size:1.5rem;
+  
+}
+
+
+.marquee{
+  font-size:2rem;
+    text-align: center;
+    color: black;
+    display:inline-block;
+    margin-left:38%;
+    width:25%;
+    border:1px solid beige;
+}
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius:12px;
+  }
+  .section{
+    border:1px solid rgb(255, 255, 255);
+    background: linear-gradient(to right,rgb(227, 222, 222),white);
+  }
+  .para{
+    float: right;
+    margin-top: 4%;
+    margin-right:20%;
+    
+  }
+  .label{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(5, 4, 4);
+}
+.input{
+  width: 80%;
+  padding: 8px;
+  background-color:rgb(235, 231, 231);
+  border: none;
+  outline: none;
+  height: 20px;
+}
+
+.submit{
+  margin-left:36%;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: rgb(29, 97, 246);
+  margin-top: 3%;
+  border-radius: 12px;
+  padding: 8px;
+}
+#aboutme{
+  border: 1px solid white;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height:25rem;
+}
+
+.myskill{
+  font-size:3rem;
+  text-align: center;
+  color: black;
+  display:block;
+  margin-left:38%;
+  width: 30%;
+}
+
+#left{
+  width:35%;  
+  padding:10px;
+  display: inline-block;
+}
+
+.type{
+  margin-left:3rem;
+  display:block;
+  padding:9px;
+  font-size:1.5rem;
+  
+}
+
+.range{
+  width:80%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  display:inline-block;
+  border: none;
+
+}
+.lan{
+  width:75%;
+  display:inline-block;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+}
+
+.css{
+
+  width:70%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+  display: inline-block;
+
+}
+
+.ops{
+    
+  width:60%;
+  background: linear-gradient(to right,orange,red);
+  outline: none;
+  margin-left:3%;
+  height: 18px;
+  border: none;
+  display: inline-block;
+
+
+}
+
+.mynotes{
+   
+  height:340px;
+  width:61%;
+  float: right;
+  border-radius:15px;
+  background-color: white;
+  display: inline-block;
+}
+
+.box{
+  border: 1px solid rgb(249, 249, 249);
+  width:25%;
+  margin-top: 1%;
+  margin-left:2%;
+  text-align: center;
+  display: inline-block;
+  padding:20px;
+  height: 270px;
+}
+
+.html{
+  background-size:50px;
+  height:200px;
+  width: 200px;
+  border-radius: 40%;
+}
+
+.click{
+  padding:8px;
+  color: white;
+  background-color: rgb(78, 78, 252);
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.click:hover{
+  background-color: rgb(144, 144, 247);
+  box-shadow: 1px 2px 2px 3px rgb(111, 111, 255);
+}
+
+.java{
+  background-size: 100px;
+  height:200px;
+  border-radius: 40%;
+  width: 200px;
+
+
+}
+
+.doc:hover{
+  font-size:22px;
+
+}
+
+
+.python{
+  background-size: 100px;
+  height:200px;
+  border-radius: 40%;
+  width: 200px;
+}
+
+  #btn{
+
+    padding: 8px;
+    background-color: rgb(55, 55, 255);
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+  }
+  #contact-form{
+    border: 1px solid rgb(255, 255, 255);
+    height:500px;
+    background: linear-gradient(to top,rgb(227, 213, 213),rgb(219, 215, 215));
+    width: 100%;
+  
+
+  }
+  .mail{
+   float: right;
+   padding: 8px;
+   background-color: black;
+   color: whitesmoke;
+   border-radius: 8px;
+   margin-right:3%;
+  }
+  .location{
+    height: 34t0px;
+    width:700px;
+  }
+  .map{
+    border: 1px solid rgb(255, 255, 255);
+    height: 360px;
+    width: 700px;
+    float: right;
+    display: inline-block;
+   
+  }
+  #login{
+    height: 250px;
+    margin-left: 3%;
+    display: inline-block;
+    width: 50%;
+}
+
+  #btn:hover{
+    box-shadow: 2px 1px 2px 2px rgb(74, 74, 255);
+    font-size: 13px;
+  }
+  h1{
+    font-weight: 900;
+    font-size:47px;
+    font-family: initial
+  }
+  #heading{
+    font-size:40px;
+    display:block;
+    text-align: center;
+  }
+  h2{
+    font-size:30px;
+    color: rgb(87, 34, 34);
+    font-weight: bold;
+  }
+  p{
+    font-size: 16px;
+    font-family: system-ui;
+  }
+  .img{
+    background-size: 300px;
+    height:350px;
+    width:390px;
+    border-radius: 50%;
+    margin-left: 5%;
+    display:inline-block;
+    margin-top:5%;
+  }
